@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.todoinput-section{
+  text-align: center;
+  margin-bottom: 15px;
+}
+.add-button{
+  margin-left: 20px;
+}
+.create-car{
+  text-align: center;
+}
+.add-button{
+  text-align: center;
+}
