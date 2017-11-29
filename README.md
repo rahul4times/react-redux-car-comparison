@@ -15,13 +15,19 @@ App functions:
   :: Vehicle Comparison Screen
 
   :: Index page '/'
-  
+
   :: Comparison tool
 
 Technologies used:
+-------------------
   :: React
+
   :: Redux
+
   :: Routers
+
   :: Axios
+
   :: Google Map
+  
   :: Material Design User Interface
